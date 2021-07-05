@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+    text-align: center;
+}
+.campus-picture2 img{
+   width: 500px;
+    height: 312px;
+}
+.campus-picture3 img{
+   width: 500px;
+    height: 312px;
+}
+.my_menu_bar{
+    position: fixed;
+    width: 100%;
+}
+.bg-primary movie_head{
+    height: 30px;
+    width: 115px
+    
+}
